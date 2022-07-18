@@ -11,8 +11,9 @@ We must establish at least one hypothesis on the basis of which we will clean th
 Make at least two graphs that support those assumptions.
 Use at least 5 different data cleaning techniques.
 HYPOTHESIS:
-Swimming is not necessarily the most dangerous activity.
-Great white sharks are the species that makes the most attacks.
+1. The great white shark is the most lethal shark.
+2. He likes to eat USA people more than anything, so he goes an extra mile to kill them.
+3. He likes to eat surfers more than to eat swimmers.
 
 ORGANIZATION:
 1. Cleanup:
