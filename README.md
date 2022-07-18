@@ -1,4 +1,4 @@
-# My_project
+# Shark_Project
 
 INTRO:
 For this project, we start from the provided database, which is available from Global Shark Attacks 📚.
